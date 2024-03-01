@@ -1,13 +1,3 @@
-<!-- Title -->
-<!--
-<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Yejin Oh</h1>
--->
-
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=100&section=header&text=👋&nbsp;𝙷𝚎𝚕𝚕𝚘!&nbsp;𝙸'𝚖&nbsp;Yejin&nbsp;Oh&fontColor=E5FFDD)
-
-![yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin5&show_icons=true&theme=radical)
-
-<a href="https://github.com/yejin5"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejin5&layout=compact&theme=nord&hide_border=true" /></a> 
 
 <!--
 **yejin5/yejin5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align='center'>
+  
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=100&section=header&text=👋Yejin%20Oh's%20GitHub&fontSize=50&fontColor=E5FFDD&animation=scaleIn)
+
+<p></p>
+
+### My stats 🤓
+  
+![yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin5&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejin5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
